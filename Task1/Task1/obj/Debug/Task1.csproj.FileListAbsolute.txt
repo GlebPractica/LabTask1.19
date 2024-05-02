@@ -1,0 +1,16 @@
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\bin\Debug\VoiceVotingDB.mdf
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\bin\Debug\VoiceVotingDB_log.ldf
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\bin\Debug\Task1.exe.config
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\bin\Debug\Task1.exe
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\bin\Debug\Task1.pdb
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.Forms.AddSong.resources
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.Forms.Admin.resources
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.Forms.OutputResults.resources
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.RegUsers.resources
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.exe
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.pdb
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.Forms.Auth.resources
