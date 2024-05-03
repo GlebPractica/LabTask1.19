@@ -65,6 +65,7 @@
     <Compile Include="Classes\ConcertSettings.cs" />
     <Compile Include="Classes\ConcertSystem.cs" />
     <Compile Include="Classes\Fan.cs" />
+    <Compile Include="Classes\Reflector.cs" />
     <Compile Include="Classes\Vote.cs" />
     <Compile Include="Forms\AddSong.cs">
       <SubType>Form</SubType>
@@ -89,6 +90,12 @@
     </Compile>
     <Compile Include="Forms\OutputResults.Designer.cs">
       <DependentUpon>OutputResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Reflection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Reflection.Designer.cs">
+      <DependentUpon>Reflection.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -115,6 +122,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\OutputResults.resx">
       <DependentUpon>OutputResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Reflection.resx">
+      <DependentUpon>Reflection.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

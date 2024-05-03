@@ -84,5 +84,11 @@ namespace Task1.Forms
         {
             this.Close();
         }
+
+        private void BttnRefl_Click(object sender, EventArgs e)
+        {
+            Form refl = new Reflection();
+            refl.Show();
+        }
     }
 }

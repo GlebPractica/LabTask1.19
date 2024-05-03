@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\task1\\forms\\outputresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\forms\\outputresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\task1\\forms\\reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\forms\\reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\task1\\classes\\concertsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\classes\\concertsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|d:\\pairs\\kpjp_practica\\work_1.18\\task1\\task1\\forms\\reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\forms\\reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\task1\\forms\\addsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\forms\\addsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\task1\\forms\\addsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\forms\\addsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\task1\\forms\\outputresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\forms\\outputresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\task1\\classes\\reflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B87A1D-03B8-4433-A550-2F5554292D06}|Task1\\Task1.csproj|solutionrelative:task1\\classes\\reflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,65 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OutputResults.cs",
-              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\OutputResults.cs",
-              "RelativeDocumentMoniker": "Task1\\Forms\\OutputResults.cs",
-              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\OutputResults.cs",
-              "RelativeToolTip": "Task1\\Forms\\OutputResults.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Title": "Reflection.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\Reflection.cs",
+              "RelativeDocumentMoniker": "Task1\\Forms\\Reflection.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\Reflection.cs",
+              "RelativeToolTip": "Task1\\Forms\\Reflection.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T05:53:59.301Z",
+              "WhenOpened": "2024-05-03T04:29:08.646Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OutputResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\OutputResults.cs",
-              "RelativeDocumentMoniker": "Task1\\Forms\\OutputResults.cs",
-              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\OutputResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Task1\\Forms\\OutputResults.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T05:42:52.027Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConcertSystem.cs",
-              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Classes\\ConcertSystem.cs",
-              "RelativeDocumentMoniker": "Task1\\Classes\\ConcertSystem.cs",
-              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Classes\\ConcertSystem.cs",
-              "RelativeToolTip": "Task1\\Classes\\ConcertSystem.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAIwCcAAAAmAAAA",
+              "Title": "Reflection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\Reflection.cs",
+              "RelativeDocumentMoniker": "Task1\\Forms\\Reflection.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\Reflection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task1\\Forms\\Reflection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:11:35.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddSong.cs",
-              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\AddSong.cs",
-              "RelativeDocumentMoniker": "Task1\\Forms\\AddSong.cs",
-              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\AddSong.cs",
-              "RelativeToolTip": "Task1\\Forms\\AddSong.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAIAwwDsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:10:00.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:21:08.633Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddSong.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\AddSong.cs",
-              "RelativeDocumentMoniker": "Task1\\Forms\\AddSong.cs",
-              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Forms\\AddSong.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Task1\\Forms\\AddSong.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "Reflector.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Classes\\Reflector.cs",
+              "RelativeDocumentMoniker": "Task1\\Classes\\Reflector.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.18\\Task1\\Task1\\Classes\\Reflector.cs",
+              "RelativeToolTip": "Task1\\Classes\\Reflector.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAkwC0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T05:30:46.224Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-05-02T06:35:22.597Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,3 +14,4 @@ D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileI
 D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.exe
 D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.pdb
 D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.Forms.Auth.resources
+D:\Pairs\KPJP_Practica\Work_1.18\Task1\Task1\obj\Debug\Task1.Forms.Reflection.resources

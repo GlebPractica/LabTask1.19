@@ -35,6 +35,7 @@
             this.BttnReg = new System.Windows.Forms.Button();
             this.BttnEnter = new System.Windows.Forms.Button();
             this.BttnExit = new System.Windows.Forms.Button();
+            this.BttnRefl = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -99,11 +100,22 @@
             this.BttnExit.UseVisualStyleBackColor = true;
             this.BttnExit.Click += new System.EventHandler(this.BttnExit_Click);
             // 
+            // BttnRefl
+            // 
+            this.BttnRefl.Location = new System.Drawing.Point(12, 221);
+            this.BttnRefl.Name = "BttnRefl";
+            this.BttnRefl.Size = new System.Drawing.Size(259, 35);
+            this.BttnRefl.TabIndex = 7;
+            this.BttnRefl.Text = "Рефлексия";
+            this.BttnRefl.UseVisualStyleBackColor = true;
+            this.BttnRefl.Click += new System.EventHandler(this.BttnRefl_Click);
+            // 
             // Auth
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(288, 224);
+            this.ClientSize = new System.Drawing.Size(288, 263);
+            this.Controls.Add(this.BttnRefl);
             this.Controls.Add(this.BttnExit);
             this.Controls.Add(this.BttnEnter);
             this.Controls.Add(this.BttnReg);
@@ -128,6 +140,7 @@
         private System.Windows.Forms.Button BttnReg;
         private System.Windows.Forms.Button BttnEnter;
         private System.Windows.Forms.Button BttnExit;
+        private System.Windows.Forms.Button BttnRefl;
     }
 }
 
